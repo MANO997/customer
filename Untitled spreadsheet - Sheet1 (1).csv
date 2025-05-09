@@ -1,0 +1,10 @@
+crime id,date  of incident,crime type ,location,latitude,city,day of the week,time of day,reported by 
+c001,15/03/2005,theft,main st.zone A,40.7128,new york,saturday,night,police
+c002,16/03/2025,assault,elm ave.sector 3,34.0522,los angeles,sunday,morning,citizen
+c003,16/03/2025,burglary,5th ave.block B,41.8781,chicago,monday,evening,cctv
+c004,17/03/2025,robbery,pine st.area 4,29.7604,houston,tuesday,night,police
+c005,17/03/2025,theft,maple dr.zone c,33.4484,phonenix,wednesday,afternoon,citizen
+c006,17/03/2025,assault,oak st.sector 2,39.7392,denver,thursday,morning,cctv
+c007,18/03/2025,theft,cedar ln.block d,32.7767,dallas ,tuesday,night,police
+c008,19/03/2025,burglary,willow st.setor 5,47.6062,san francissco,friday,evening,cctv
+c009,20/03/2025,robbery,ash blvd.zone B,38.9072,washintgton.dc,saturday,afternoon,citizen
